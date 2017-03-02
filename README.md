@@ -4,6 +4,8 @@
 
 # Setup
 
+**First, search word:'sample' and remove lines related in it.**
+
 ```
 bundle install --path vendor/bundle
 npm --prefix client install
